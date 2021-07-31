@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+#Installation and tests points 
+1.download zip files code 
+2.run yarn install
+3.run yarn start
+
+#Test Notes
+1.application will load with empty array 
+2.add few products by click on add button (after refreshing products will be persist in session storage)
+3.to edit product click on product image in left side !
+4.to edit specific product throw url type (product/selectedProduct) for example product/3
+
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
