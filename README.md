@@ -1,13 +1,13 @@
 ## Installation and tests points 
-1.download zip files code\ 
-2.run yarn install\
-3.run yarn start\
+1.download zip files code<br/> 
+2.run yarn install<br/>
+3.run yarn start<br/>
 
 ## Test Notes
-1.application will load with empty array\ 
-2.add few products by click on add button (after refreshing products will be persist in session storage)\
-3.to edit product click on product image in left side !\
-4.to edit specific product throw url type (product/selectedProduct) for example product/3\
+1.application will load with empty array<br/> 
+2.add few products by click on add button (after refreshing products will be persist in session storage)<br/>
+3.to edit product click on product image in left side !<br/>
+4.to edit specific product throw url type (product/selectedProduct) for example product/3<br/>
 
 ## Getting Started with Create React App
 
